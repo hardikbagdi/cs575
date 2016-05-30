@@ -1,0 +1,12 @@
+Hardik Bagdi - hbagdi1
+CS 575
+Assignment 2
+To compile all the three programs just use the 'make' command
+To run the programs use the following commands-
+./lim
+./heap_radix
+./bc
+
+Binomial Co-effcient Program
+supports the range of integer only.
+

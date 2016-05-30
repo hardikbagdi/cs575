@@ -1,0 +1,7 @@
+Just run 'make' and the command will compile the code and run it too.
+
+Brute Force solution computes all possible sets and then selects the optimal solution.
+
+Refined Dynamic programming solution is implemented using memoization concept. Hence the solution is recursive in nature and seems a normal dynamic programming solution but it calculates only the value needed and not all the values. Space complexity is same as a normal dynamic programming solution (the assignment guidliens allow this) but computational complexity is O(2^n) in worst case.
+
+Backtracking solution uses the same approach in lecture notes with same variable names to ease implementation. 
